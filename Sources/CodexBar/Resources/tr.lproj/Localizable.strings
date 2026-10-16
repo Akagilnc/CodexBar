@@ -2668,3 +2668,4 @@
 "Claude desktop app" = "Claude masaüstü uygulaması";
 "Use Claude desktop app cookies" = "Claude masaüstü uygulamasının çerezlerini kullan";
 "For Web usage, follow the account signed into Claude.app instead of a browser." = "Web kullanımı için tarayıcı hesabı yerine Claude.app içinde oturum açılan hesabı kullan.";
+"Claude config directory" = "Claude yapılandırma dizini";

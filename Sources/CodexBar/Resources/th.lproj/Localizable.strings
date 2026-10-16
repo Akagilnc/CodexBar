@@ -2667,3 +2667,4 @@
 "Claude desktop app" = "แอป Claude บนเดสก์ท็อป";
 "Use Claude desktop app cookies" = "ใช้คุกกี้จากแอป Claude บนเดสก์ท็อป";
 "For Web usage, follow the account signed into Claude.app instead of a browser." = "สำหรับการใช้งานเว็บ ให้ใช้บัญชีที่ลงชื่อเข้าใช้ใน Claude.app แทนบัญชีในเบราว์เซอร์";
+"Claude config directory" = "โฟลเดอร์การตั้งค่า Claude";

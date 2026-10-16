@@ -2633,3 +2633,4 @@
 "Claude desktop app" = "Claude 데스크톱 앱";
 "Use Claude desktop app cookies" = "Claude 데스크톱 앱 쿠키 사용";
 "For Web usage, follow the account signed into Claude.app instead of a browser." = "웹 사용량에는 브라우저 대신 Claude.app에 로그인한 계정을 사용합니다.";
+"Claude config directory" = "Claude 설정 디렉터리";

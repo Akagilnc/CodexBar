@@ -2664,3 +2664,4 @@
 "Claude desktop app" = "Claude-skrivbordsappen";
 "Use Claude desktop app cookies" = "Använd cookies från Claude-skrivbordsappen";
 "For Web usage, follow the account signed into Claude.app instead of a browser." = "För webbanvändning används kontot som är inloggat i Claude.app i stället för webbläsarkontot.";
+"Claude config directory" = "Konfigurationsmapp för Claude";

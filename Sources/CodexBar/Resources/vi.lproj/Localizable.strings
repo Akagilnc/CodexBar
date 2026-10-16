@@ -2666,3 +2666,4 @@
 "Claude desktop app" = "Ứng dụng Claude trên máy tính";
 "Use Claude desktop app cookies" = "Dùng cookie của ứng dụng Claude trên máy tính";
 "For Web usage, follow the account signed into Claude.app instead of a browser." = "Đối với mức sử dụng web, dùng tài khoản đã đăng nhập trong Claude.app thay vì tài khoản trình duyệt.";
+"Claude config directory" = "Thư mục cấu hình Claude";

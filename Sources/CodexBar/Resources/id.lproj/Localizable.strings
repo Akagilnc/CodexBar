@@ -2666,3 +2666,4 @@
 "Claude desktop app" = "Aplikasi desktop Claude";
 "Use Claude desktop app cookies" = "Gunakan cookie aplikasi desktop Claude";
 "For Web usage, follow the account signed into Claude.app instead of a browser." = "Untuk penggunaan web, ikuti akun yang masuk di Claude.app, bukan akun di browser.";
+"Claude config directory" = "Direktori konfigurasi Claude";
