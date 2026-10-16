@@ -8,6 +8,7 @@
 - Menu bar: add Spend layout items and conditional rules for providers that report a spend budget, such as Claude Enterprise (#4530). Thanks @benjschiller!
 - Settings: manage an opt-in HTTP usage server with local token storage, VPN/Tailscale binding controls, and automatic start/stop with the Mac app (#4430). Thanks @gmkbenjamin!
 - Plugins: show quota gauges on user-plugin tabs and allow enabled plugins in the Overview provider picker (#4471). Thanks @soimy!
+- Providers: add Future AGI billing-period usage and free allowances with an API-key pair, including AI credits, gateway requests, and estimated usage cost (#4560). Thanks @spencer-shadley!
 - Settings: offer a six-day Monday–Saturday work week for weekly pace and session forecasts (#4548). Thanks @ViaxCo!
 - Claude: optionally read web usage from the Claude desktop app’s signed-in session, following desktop account switches without using browser credentials (#4494). Thanks @flutterrausch!
 - Settings: navigate visited panes with Back/Forward and Command-[ / Command-], with a native-style detail header on macOS 26 and later (#4475). Thanks @elijahfriedman!
